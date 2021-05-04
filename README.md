@@ -8,7 +8,7 @@ Add the bot to your server by the [link](https://discord.com/api/oauth2/authoriz
 
 ## Usage
 
-First, send your code on a message channel, then send the command *_code -[**language-extension-here**]* to see the magic happen
+First, send your code on a message channel, then send the command *"_code -[**language-extension-here**]"* to see the magic happen
 
 !["Usage example"!](/assets/usage.gif "Usage example")
 
