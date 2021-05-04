@@ -1,6 +1,6 @@
 # Darubo
 
-A Discord bot to beautify codes on the message channels
+A Discord bot to beautify codes on your message channel
 
 ## Invitation
 
