@@ -64,6 +64,11 @@ module.exports = (client, env, triggerText) => {
         {name: "Xml", value:"xml", inline: true},
         {name: "JavaScript", value:"js", inline: true},
         {name: "Json", value:"json", inline: true},
-        {name: "Kotlin", value:"kt", inline: true}
+        {name: "Kotlin", value:"kt", inline: true},
+        {name: "PHP", value:"php", inline: true},
+        {name: "GO", value:"go", inline: true},
+        {name: "Dart", value:"dart", inline: true},
+        {name: "SQL", value:"sql", inline: true},
+        {name: "TypeScript", value:"ts", inline: true}
     ]
 }
