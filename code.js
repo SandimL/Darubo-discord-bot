@@ -15,9 +15,8 @@ module.exports = (client, env, triggerText) => {
             }else{
                 const failureEmbed = new Discord.MessageEmbed()
                     .setColor('#95ff00')
-                    .setTitle('Mermão, vc tem que digitar direito!')
-                    .setDescription('A extensão informada não foi encontrada, está procurando por alguma dessas?')
-                    .setImage('https://files.nsctotal.com.br/s3fs-public/2019-08/MTX01_0.jpg?nk1pZS3h9LJZOqvkHvlwINcM1Jqe8TzQ')
+                    .setTitle('Ops, não entendi!')
+                    .setDescription('Para funcionar, escreva "**_code -{extensão_escolhida}**" com uma das extensões abaixo: ')
                     .addFields(langs)
                     .setFooter('Escolha uma das extensões acima')
                     .setTimestamp(new Date())
